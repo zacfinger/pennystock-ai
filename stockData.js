@@ -2,6 +2,7 @@
 
 // AAPL stock data
 const aaplData = [
+    { date: '2024-11-07', price: 227.48},
     { date: '2024-11-06', price: 222.72},
     { date: '2024-11-05', price: 223.45},
     { date: '2024-11-04', price: 222.01},
@@ -512,6 +513,7 @@ const aaplData = [
 ];
 
 const xluData = [
+    { date: '2024-11-07', price: 77.69},
     { date: '2024-11-06', price: 77.55},
     { date: '2024-11-05', price: 78.36},
     { date: '2024-11-04', price: 77.20},
@@ -1022,6 +1024,7 @@ const xluData = [
 ];
 
 const dvyData = [
+    { date: '2024-11-07', price: 137.51},
     { date: '2024-11-06', price: 138.43},
     { date: '2024-11-05', price: 134.92},
     { date: '2024-11-04', price: 133.38},
